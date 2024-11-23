@@ -9,7 +9,7 @@
 ---
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramnivas-11111&label=Profile%20views&color=0e75b6&style=flat" alt="ramnivas-11111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramnivas-1111&label=Profile%20views&color=0e75b6&style=flat" alt="ramnivas-1111" /> </p>
 
 ### ✨ About Me
 
@@ -59,25 +59,25 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramnivas-11111&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramnivas-1111&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramnivas-11111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramnivas-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramnivas-11111&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramnivas-1111&theme=dark&hide_border=false"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramnivas-11111&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ramnivas-1111&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ramnivas-11111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ramnivas-1111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 ---
 
