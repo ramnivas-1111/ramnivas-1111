@@ -17,7 +17,7 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 
 - 💼 I am currently focused on becoming a *Java Full Stack Developer*. I am working on mastering both frontend and backend technologies, with Java at the core.
 - 🌱 I’m always learning new things and exploring the latest technologies.
-- ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills
+- ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills.
 
 ## 🚀 My Projects
 - *[Tic Tac Toe](https://github.com/your-username/tic-tac-toe)* 🎮 - A classic Tic Tac Toe game built using JavaScript, HTML, and CSS.
