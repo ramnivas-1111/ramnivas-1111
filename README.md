@@ -15,7 +15,7 @@
 
 I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate about *technology* and *coding*. I strive to create clean, efficient, and user-friendly web applications.
 
-- 💼 I am currently focused on becoming a *Java Full Stack Developer*. I am working on mastering both frontend and backend technologies, with Java at the core.
+- 💼 I am currently focused on becoming a *Java Full Stack Developer*. I am working on mastering both frontend and backend technologies, with Java at the core
 - 🌱 I’m always learning new things and exploring the latest technologies.
 - ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills.
 
