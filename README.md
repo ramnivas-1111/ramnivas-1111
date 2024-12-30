@@ -22,7 +22,7 @@ I am a *Frontend Developer* and aspiring *Java Full Stack Developer* passionate 
 ## 🚀 My Projects
 - *[Tic Tac Toe](https://github.com/your-username/tic-tac-toe)* 🎮 - A classic Tic Tac Toe game built using JavaScript, HTML, and CSS.
 - *[Perfect Guess](https://github.com/your-username/perfect-guess)* 🎯 - A guessing game where users predict a number, developed using JavaScript.
-- *[Weather Information](https://github.com/your-username/weather-app)* 🌤 - A web app that fetches real-time weather data from an API and displays it using dynamic UI
+- *[Weather Information](https://github.com/your-username/weather-app)* 🌤 - A web app that fetches real-time weather data from an API and displays it using dynamic UI.
 
 ## 🔧 Technologies & Tools
 - *Programming Languages:*  
